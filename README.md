@@ -10,7 +10,7 @@ Select “Request Account Deletion.”
 
 Confirm your request. Your data will be deleted within 7 days.
 
-If you no longer have access to the app, please contact us at: your_email@example.com
+If you no longer have access to the app, please contact us at: wasimullahfarooqi@gmail.com
 
 Retention policy:
 User data is kept only for the purpose of account management and is deleted permanently upon request.
